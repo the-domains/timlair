@@ -1,0 +1,28 @@
+name: Timlair
+favicon: null
+layout_spectrum: 0.35578195261768997
+typography_spectrum: 0.2690219928044826
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7637293683364987
+  lightness: 0.4876438977662474
+  saturation: 0.8656188428867608
+  rhythmicContrast: 0.5342876235954463
+purpose: []
